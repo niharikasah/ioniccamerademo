@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: hi_IN\n"
+
+#: state1.html:7
+msgid "Choose Photo"
+msgstr "फोटो का चयन"
+
+#: state1.html:10
+msgid "See list"
+msgstr "सूची देखें"
+
+#: state1.html:4
+msgid "Take Photo"
+msgstr "फोटो लें"

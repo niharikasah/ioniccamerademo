@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: state1.html:8
+msgid "Choose Photo"
+msgstr ""
+
+#: state1.html:11
+msgid "See list"
+msgstr ""
+
+#: state1.html:5
+msgid "Take Photo"
+msgstr ""

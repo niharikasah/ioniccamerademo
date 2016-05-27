@@ -1,0 +1,16 @@
+<ion-view>
+    <ion-content ng-controller="ExampleController" padding="true">
+        <h1 ng-click="switchLanguage('hi')">Click to change language</h1>
+        <button class="button button-full button-assertive" ng-click="takePhoto()">
+            <p translate> Take Photo </p>
+        </button>
+        <button class="button button-full button-assertive" ng-click="choosePhoto()">
+            <p translate>Choose Photo</p>
+        </button>
+        <button class="button button-full button-balanced" ui-sref=".list">
+            <p translate>See list</p>
+        </button>
+        <div ui-view></div>
+        <img ng-show="imgURI !== undefined" ng-src="{{imgURI}}" style="text-align: center">
+    </ion-content>
+</ion-view>
